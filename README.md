@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbmelolima/)](https://www.linkedin.com/in/rbmelolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rbmelolima@gmail.com)](mailto:rbmelolima@gmail.com/)  
 
-Sou Roger, desenvolvedor web | mobile, aspirante a fotográfo e curioso em web design.
+Sou Roger, desenvolvedor web | mobile, aspirante a fotógrafo e curioso em web design.
 
 ## :mortar_board: Formação
 - Técnico em informática - IFSP Campus Cubatão (Completo)
