@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbmelolima/)](https://www.linkedin.com/in/rbmelolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rbmelolima@gmail.com)](mailto:rbmelolima@gmail.com/)  
 
-Sou Roger, desenvolvedor web | mobile, aspirante a fotógrafo e curioso em web design.
+Minha paixão é resolver problemas, principalmente quando posso resolver com código. Alio desenvolvimento com design, afinal, não basta apenas ser funcionar, uma aplicação deve ter a melhor experiência de usuário possível e pra isso, estudo web design de forma auto didata. Amo fotografia também, se quiser conferir algumas fotos minhas é só me procurar no instagram com o mesmo user do github @rbmelolima. 
 
-## :mortar_board: Formação
-- Técnico em informática - IFSP Campus Cubatão (Completo)
-- Análise e desenvolvimento de sistemas - FATEC Rubens Lara (Cursando)
+## :mortar_board: Formação acadêmica
+- Técnico em informática - IFSP Campus Cubatão (Completo - 2016 à 2019)
+- Análise e desenvolvimento de sistemas - FATEC Rubens Lara (Cursando - 2020 à 2022)
 
 ## :computer: Tecnologias
 - Javascript
