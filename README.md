@@ -20,6 +20,4 @@ Constantemente escrevo sobre meus aprendizados no Medium, para conferir os artig
 - React.js
 - Flutter
 - Dart
-- PHP
-
 
