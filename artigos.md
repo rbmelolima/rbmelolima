@@ -8,3 +8,5 @@ Conforme me aprimoro em conhecimentos teóricos relacionados à computação, es
 - [Gerenciamento de memória #1](https://medium.com/@rbmelolima/gerenciamento-de-mem%C3%B3ria-e2a4437ed7bc)
 
 - [Gerenciamento de memória #2](https://medium.com/@rbmelolima/gerenciamento-de-mem%C3%B3ria-2-b5e779325999)
+
+- [Configurando UT8 permanentemente no terminal do Windows](https://medium.com/@rbmelolima/configurando-ut8-permanentemente-no-terminal-do-windows-b0173fb27b5b)
