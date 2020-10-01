@@ -8,13 +8,9 @@
 Minha paixão é resolver problemas, principalmente quando posso resolver com código. Alio desenvolvimento com design, afinal, não basta apenas ser funcionar, uma aplicação deve ter a melhor experiência de usuário possível e pra isso, estudo web design de forma auto didata. Amo fotografia também, se quiser conferir algumas fotos minhas é só me procurar no instagram com o mesmo user do github @rbmelolima. 
 
 - [Artigos](https://medium.com/@rbmelolima)
-
 - [Fotografias](https://www.instagram.com/rbmelolima/)
-
 - [Design](https://dribbble.com/rbmelolima)
-
 - [Código](https://github.com/rbmelolima)
-
 - [Projetos que estão no ar](https://github.com/rbmelolima/rbmelolima/blob/master/projetos.md)
 
 ## :mortar_board: Formação acadêmica 
