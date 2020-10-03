@@ -11,7 +11,7 @@ Minha paixão é resolver problemas, principalmente quando posso resolver com c�
 - [Fotografias](https://www.instagram.com/rbmelolima/)
 - [Design](https://dribbble.com/rbmelolima)
 - [Código](https://github.com/rbmelolima)
-- [Projetos que estão no ar](https://github.com/rbmelolima/rbmelolima/blob/master/projetos.md)
+- [Projetos](https://github.com/rbmelolima/rbmelolima/blob/master/projetos.md)
 
 ## :mortar_board: Formação acadêmica 
 - **Análise e desenvolvimento de sistemas** - FATEC Rubens Lara (Cursando - 2020 à 2022)
