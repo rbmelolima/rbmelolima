@@ -35,6 +35,8 @@ Este arquivo tem como objetivo agregar em um só lugar todos os meu projetos fei
 
 - [Next.js Blog](https://github.com/rbmelolima/Nextjs-Blog): Construção de um pequeno blog feito em Next.js feito durante o tutorial da Vercel
 
+- [Simple WebView](https://github.com/rbmelolima/Simple-Webview): Construção de um simples Webview com Electron
+
 ## Aplicações
 - [Jogo da velha](https://github.com/rbmelolima/Tictactoe): Clássico jogo da velha em HTML, CSS e Javascript
 
