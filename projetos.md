@@ -87,24 +87,24 @@ Aplicações que estão no ar
 
 - [UI Clone Github](https://ui-clone-github-sooty.vercel.app/)
 
-- [Atena - Agregador de conhecimento](https://rbmelolima.github.io/Atena/)
+- [UI Clone Piperfy](https://clone-piperfy.vercel.app/)
+
+- [Atena](https://rbmelolima.github.io/Atena/)
 
 - [Blog em Next.js](https://nextjs-blog-eight-phi-54.vercel.app/)
 
 - [Github My Stars](https://github-my-stars.vercel.app/)
 
-- [UI Clone Piperfy](https://clone-piperfy.vercel.app/)
+- [MeuZap](https://rbmelolima.github.io/MeuZap)
 
-- [Meu Zap - Gerador de links para Whatsapp](https://rbmelolima.github.io/MeuZap)
+- [Explore](https://www.rbmelolima.com.br/Explore/)
 
-- [Explore - Fotos astronômicas](https://www.rbmelolima.com.br/Explore/)
+- [Brain](http://www.rbmelolima.com.br/Brain/)
 
-- [Brain - Extraia dados do seu navegador](http://www.rbmelolima.com.br/Brain/)
-
-- [Ninesun - Pontos turísticos da Baixada Santista](https://www.rbmelolima.com.br/Ninesun)
+- [Ninesun](https://www.rbmelolima.com.br/Ninesun)
 
 - [Jogo da velha](https://rbmelolima.github.io/Tictactoe)
 
-- [unPass - Gerador de senhas](https://rbmelolima.github.io/unPass/)
+- [unPass](https://rbmelolima.github.io/unPass/)
 
-- [Bin2Dec - Conversor de bases numéricas](http://rbmelolima.github.io/Bin2Dec/)
+- [Bin2Dec](http://rbmelolima.github.io/Bin2Dec/)
