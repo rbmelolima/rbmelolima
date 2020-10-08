@@ -37,6 +37,8 @@ Este arquivo tem como objetivo agregar em um só lugar todos os meu projetos fei
 
 - [Simple WebView](https://github.com/rbmelolima/Simple-Webview): Construção de um simples Webview com Electron
 
+- [SpeechSynthesis](https://github.com/rbmelolima/SpeechSynthesis): Construção de um leitor online
+
 ## Aplicações
 - [Jogo da velha](https://github.com/rbmelolima/Tictactoe): Clássico jogo da velha em HTML, CSS e Javascript
 
