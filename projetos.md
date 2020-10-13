@@ -3,7 +3,7 @@ Este arquivo tem como objetivo agregar em um só lugar todos os meu projetos fei
 
 # :computer: Projetos
 ### UI Clone
-- [Aplicativo mobile do Santander](https://github.com/rbmelolima/UI-Clone-Santander)
+- [Santander](https://github.com/rbmelolima/UI-Clone-Santander)
 
 - [Github](https://github.com/rbmelolima/UI-Clone-Github)
 
