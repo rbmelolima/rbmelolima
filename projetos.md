@@ -16,22 +16,17 @@ Este arquivo tem como objetivo agregar em um só lugar todos os meu projetos fei
 
 - [EmailList](https://github.com/rbmelolima/EmailList): Programa desafio proposto pelo professor de Linguagem de programação
 
-- **Curso de Flutter - Alura**
-  - [Fundamentos do Flutter](https://github.com/rbmelolima/Bytebank-0)
-  
-  - [Persistência com Flutter: Crie um app com armazenamento interno](https://github.com/rbmelolima/Bytebank-1)
-  
-  - [Flutter com web API: integrando sua app mobile](https://github.com/rbmelolima/Bytebank-2)
-  
+- [Formação Flutter - Alura](https://github.com/rbmelolima/Bytebank)
+
 - [Start em Javascript ES6 - Rocketseat](https://github.com/rbmelolima/StartES6)
 
 - [QuizzAPI](https://github.com/rbmelolima/QuizzAPI): API em Node desevolvida no curso de clean architecture em Node do [Rodrigo Manguinho](https://www.udemy.com/user/rodrigo-manguinho/)
 
-- [Masterclass Redux](https://github.com/rbmelolima/masterclass-redux): Introdução ao uso de Redux com React.js
+- [Masterclass Redux](https://github.com/rbmelolima/Masterclass-Redux): Introdução ao uso de Redux com React.js
 
-- [Masterclass Node.js](https://github.com/rbmelolima/masterclass-node): Conhecendo os módulos nativos do Node.js como os, fs, path, url, events, http
+- [Masterclass Node.js](https://github.com/rbmelolima/Masterclass-Node): Conhecendo os módulos nativos do Node.js como os, fs, path, url, events, http
 
-- [Web Scrapping Instagram](https://github.com/rbmelolima/Web-scraping-instagram): Introdução ao Puppeteer com Node.js
+- [Web Scrapping Instagram](https://github.com/rbmelolima/Web-Scraping-Instagram): Introdução ao Puppeteer com Node.js
 
 - [Next.js Blog](https://github.com/rbmelolima/Nextjs-Blog): Construção de um pequeno blog feito em Next.js feito durante o tutorial da Vercel
 
@@ -77,6 +72,8 @@ Este arquivo tem como objetivo agregar em um só lugar todos os meu projetos fei
 - [AntUrl](https://github.com/rbmelolima/AntUrl): Deixe suas urls tão pequenas quanto formigas
 
 - [Utils](https://github.com/rbmelolima/Utils): Conjunto de funções e algoritmos reutilizáveis em Typescript
+
+- [Happy](https://github.com/rbmelolima/Happy): Leve felicidade para o mundo. Visite orfanatos e mude o dia de muitas crianças!
 
 ## Testes
 - [KBR TEC](https://github.com/rbmelolima/DecoraPresentes): Desafio proposto para um teste de front end da empresa KBR TEC em 2019
