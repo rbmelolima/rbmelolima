@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rbmelolima)](https://github.com/rbmelolima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbmelolima/)](https://www.linkedin.com/in/rbmelolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rbmelolima@gmail.com)](mailto:rbmelolima@gmail.com/)  
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rbmelolima)](https://medium.com/@rbmelolima)  
 
 Minha paixão é resolver problemas, principalmente quando posso resolver com código. Alio desenvolvimento com design, afinal, não basta apenas ser funcional, uma aplicação deve ter a melhor experiência de usuário possível e pra isso, estudo web design de forma auto didata. Amo fotografia também, se quiser conferir algumas fotos minhas é só me procurar no instagram com o mesmo user do github @rbmelolima. 
 
