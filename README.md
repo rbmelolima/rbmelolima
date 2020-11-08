@@ -15,12 +15,3 @@ Minha paixão é resolver problemas, principalmente quando posso resolver com c�
 ## :mortar_board: Formação acadêmica 
 - **Análise e desenvolvimento de sistemas** - FATEC Rubens Lara (Cursando - 2020 à 2022)
 - **Técnico em informática** - IFSP Campus Cubatão (Completo - 2016 à 2019)
-
-## :computer: Tecnologias
-- Javascript
-- Typescript
-- Node.js
-- React.js
-- Flutter
-- Dart
-
