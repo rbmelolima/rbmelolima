@@ -4,12 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbmelolima/)](https://www.linkedin.com/in/rbmelolima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rbmelolima@gmail.com)](mailto:rbmelolima@gmail.com/)  
 
-- [Artigos](https://medium.com/@rbmelolima)
-- [Fotografias](https://www.instagram.com/rbmelolima/)
-- [Design](https://dribbble.com/rbmelolima)
-- [Código](https://github.com/rbmelolima)
-- [Projetos](https://github.com/rbmelolima/rbmelolima/blob/master/projetos.md)
+[:newspaper: Artigos](https://medium.com/@rbmelolima)
 
-## :mortar_board: Formação acadêmica 
-- **Análise e desenvolvimento de sistemas** - FATEC Rubens Lara (Cursando - 2020 à 2022)
-- **Técnico em informática** - IFSP Campus Cubatão (Completo - 2016 à 2019)
+[:camera: Fotografias](https://www.instagram.com/rbmelolima/)
+
+[:art: Design](https://dribbble.com/rbmelolima)
+
+[:computer: Código](https://github.com/rbmelolima)
+
+[:bulb: Projetos](https://github.com/rbmelolima/rbmelolima/blob/master/projetos.md)
