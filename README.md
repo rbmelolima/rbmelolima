@@ -7,6 +7,10 @@
 
 Meu nome é Roger Bernardo de Melo Lima e sou um desenvolvedor.
 
-Comecei nessa carreira em 2016, quando comecei o curso técnico de informática pelo IFSP. Lá tive contato com Java, C#, PHP e por conta do meu TCC e projetos de extensão decidi que definitivamente seguiria no ramo de desenvolvimento. Atualmente estou fazendo Análise e Desenvolvimento de Sistemas (ADS) na FATEC Rubens Lara.
-Minha paixão é resolver problemas, principalmente quando posso resolver com código. 
-
+- Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
+- Atualmente focado em aprender Javascript (React.js e Node.js) e Dart (Flutter).
+- Amo linguagens tipadas, tenho muita facilidade com Typescript.
+- Paralelamente aos estudos da minha stack, consumo informações sobre UI UX.
+- Crio temas em Wordpress quando solicitado pela empresa
+- Tenho noções em marketing digital
+- Meu foco é trabalhar conhecendo um pouco de todas as áreas importantes de uma empresa, pois meu sonho é abrir minha própria startup. 
