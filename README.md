@@ -17,4 +17,4 @@ Meu nome é Roger Bernardo de Melo Lima e sou um desenvolvedor.
 
 
 ## As linguagens que eu mais trabalho
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbmelolima&hide=html,css&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbmelolima&hide=html,css,scss&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
