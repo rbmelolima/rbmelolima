@@ -14,3 +14,7 @@ Meu nome é Roger Bernardo de Melo Lima e sou um desenvolvedor.
 - Crio temas em Wordpress quando solicitado pela empresa
 - Tenho noções em marketing digital
 - Meu foco é trabalhar conhecendo um pouco de todas as áreas importantes de uma empresa, pois meu sonho é abrir minha própria startup. 
+
+
+## As linguagens que eu mais trabalho
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbmelolima&hide=html,css&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
