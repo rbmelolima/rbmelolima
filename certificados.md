@@ -2,7 +2,6 @@
 Lista dos meus certificados adquiridos ao longo do tempo.
 
 ### 📌 Alura
-- [Certificado C# Collections 2.png](./Certificados/Alura/Certificado_C#_Collections_2.png)
 
 ### 📌 Curso em vídeo
 
