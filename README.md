@@ -11,10 +11,11 @@ Meu nome é Roger Bernardo de Melo Lima e sou um desenvolvedor.
 - Atualmente focado em aprender Javascript (React.js e Node.js) e Dart (Flutter).
 - Amo linguagens tipadas, tenho muita facilidade com Typescript.
 - Paralelamente aos estudos da minha stack, consumo informações sobre UI UX.
-- Crio temas em Wordpress quando solicitado pela empresa
+- Crio temas em Wordpress de vez em quando
 - Tenho noções em marketing digital
 - Meu foco é trabalhar conhecendo um pouco de todas as áreas importantes de uma empresa, pois meu sonho é abrir minha própria startup. 
+</br></br>
 
+## Minha Stack Atual
 
-## As linguagens que eu mais trabalho
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbmelolima&hide=html,css,scss&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
