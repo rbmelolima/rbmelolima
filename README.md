@@ -5,6 +5,8 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rbmelolima.medium.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rbmelolima/)
 
+> Meu perfil está bem parado ultimamente né? Eu sei... Por hora, trabalhando na Avanade e estudando, estou sem tempo para meus próprios projetos, mas logo logo estarei de volta! Flutter e dart <3
+
 Meu nome é Roger Bernardo de Melo Lima e sou um desenvolvedor.
 
 - Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
